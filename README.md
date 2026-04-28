@@ -49,3 +49,6 @@ http://127.0.0.1:5000/
 ## 🎯 Internship Task
 
 CodeAlpha AI Internship - Task 1 (Language Translation Tool)
+
+<img width="644" height="737" alt="image" src="https://github.com/user-attachments/assets/848857ee-e32d-4b93-8cc0-9043d7a67041" />
+
